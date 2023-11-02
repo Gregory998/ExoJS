@@ -1,0 +1,6 @@
+Exo 1 : Faire comme l'image01
+Exo 2 : Quand on clique sur une réplique ( les répliques sont des <p> avec des <span> ) elle devient jaune et quand je re-clique dessus elle redevient comme avant (image02)
+Exo 3 : Quand je clique sur une réplique et ensuite sur une autre, la première redevient comme avant (image03)
+Exo 4 : Ajouter deux boutons comme l'image04
+Exo 5 : J'affiche le numero de la réplique dans un <h2>, si aucune n'est selectionner afficher "Aucune réplique séléctionneée" ('image05 et 06)
+Exo 6: Quand je clique sur le bouton du haut les réplique se décalent vers le haut ( la replique numero 1 prend la place de la 4  ) image07 , quand je clique sur le bouton bas cela fait le contraire ( la replique numero 4 prend la place de la 1 celle du la deuxieme ) image08 

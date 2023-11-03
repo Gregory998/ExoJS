@@ -1,0 +1,179 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+@font-face {
+    font-family: 'regular';
+    src: url(../fonts/Butler_Regular.otf);
+}
+
+@font-face {
+    font-family: 'medium';
+    src: url(../fonts/Butler_Medium.otf);
+}
+
+.main {
+    width: 100%;
+    height: 100vh;
+    background-color: bisque;
+}
+
+.first-container {
+    width: 100%;
+    height: 55vh;
+}
+
+.fiche {
+    width: 70%;
+    height: 25%;
+    background-color: aqua;
+}
+
+.parc-paris {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: white;
+}
+
+.content {
+    width: 15%;
+    height: 49%;
+    background-color: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-family: 'medium';
+}
+
+.content2 {
+    width: 100%;
+    height: 25%;
+    justify-content: space-between;
+    align-content: center;
+    text-align: center;
+}
+
+h3 {
+    font-size: 1.6rem;
+    margin-top: 10px;
+}
+
+.categorie {
+    width: 100%;
+    height: 90vh;
+    background-color:white;
+}
+
+.first {
+    width: 70%;
+    height: 37%;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.nos-animaux {
+    background-color: white;
+    width: 45%;
+    height: 80%;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    justify-content: space-evenly;
+    margin-bottom: 2%;
+}
+
+#same {
+    font-size: 2.5rem;
+    font-family: 'medium';
+    font-weight: bolder;
+}
+
+#animaux-zoo {
+    font-family: 'medium';
+    font-size: 17px;
+    text-decoration: none;
+    color: #5d7b84;
+    font-weight: bolder;
+}
+
+.oiseau1 {
+    background-color: white;
+    height: 90%;
+    width: 23%;
+}
+
+.oiseau2 {
+    background-color: white;
+    height: 90%;
+    width: 23%;
+}
+
+#ara {
+    font-family: 'medium';
+    font-size: 20px;
+    font-weight: bolder;
+    margin-left: 13px;
+    margin-top: 15px;
+}
+
+.conteneur-oiseau {
+    width: 100%;
+    display: flex;
+    margin-top: 3%;
+}
+
+#localisation {
+    margin-left: 10px;
+    width: 7%;
+}
+
+#where {
+    width: 90%;
+}
+
+.second {
+    width: 70%;
+    height: 63%;
+    background-color: #f5f5f5;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.animaux {
+    background-color: white;
+    height: 55%;
+    width: 21%;
+}
+
+.animaux2 {
+    background-color: white;
+    height: 55%;
+    width: 23%;
+}
+
+.toucan {
+    width: 22%;
+    height: 95%;
+    background-color: white;
+}
+
+.empty {
+    width: 23%;
+    height: 55%;
+    background-color: #f5f5f5;
+}
+
+
+
+
+
